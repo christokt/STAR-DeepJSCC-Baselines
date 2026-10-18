@@ -1,0 +1,6 @@
+__pycache__/
+*.tmp
+factory_dataset/
+Scene_template/
+*.log.tmp
+.ipynb_checkpoints/

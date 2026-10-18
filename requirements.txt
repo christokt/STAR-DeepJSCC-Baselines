@@ -1,0 +1,5 @@
+torch>=2.4
+sionna==2.0.1
+numpy
+pillow
+matplotlib
