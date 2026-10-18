@@ -1,8 +1,7 @@
 # STAR DeepJSCC Baselines
 
 Learned baselines for **STAR: Semantic-Criticality Tiered Allocation of Radio Resources via Zero-Shot
-Learning** (Albert Shaju and Christo Kurisummoottil Thomas, Worcester Polytechnic Institute; submitted to
-IEEE ICC 2027).
+Learning** (Albert Shaju and Christo Kurisummoottil Thomas, Worcester Polytechnic Institute).
 
 STAR delivers the whole image to a remote control center and protects only its task-causal pixels, chosen
 zero-shot by a frozen vision-language model. This repository contains the **trained, task-specific
